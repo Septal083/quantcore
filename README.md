@@ -1,6 +1,6 @@
-[![PyPI version](https://img.shields.io/pypi/v/quantcore-lite)](https://pypi.org/project/quantcore-lite/)
-[![GitHub stars](https://img.shields.io/github/stars/Septal083/quantcore)](https://github.com/Septal083/quantcore/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![PyPI](https://img.shields.io/pypi/v/quantcore)
+![License](https://img.shields.io/github/license/Septal083/quantcore)
+![Stars](https://img.shields.io/github/stars/Septal083/quantcore)
 
 # QuantCore
 

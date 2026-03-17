@@ -115,7 +115,7 @@ Every backtest reports:
 
 Unlock 10 additional strategies, Monte Carlo simulation, tearsheet PDF reports, and parameter optimization.
 
-**[Get QuantCore Pro →](YOUR_POLAR_LINK)**
+**[Get QuantCore Pro →](https://buy.polar.sh/polar_cl_rA97pLblKd1pRhwXezgssGgCp1NaKlDV0CeG74fP4q4)**
 
 Set your license key:
 

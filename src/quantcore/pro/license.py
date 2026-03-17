@@ -10,8 +10,8 @@ from typing import Optional
 from urllib import request, error as urllib_error
 
 POLAR_VALIDATE_URL = "https://api.polar.sh/v1/licenses/validate"
-POLAR_ORG_ID = "YOUR_POLAR_ORG_ID"
-PRO_UNLOCK_MESSAGE = "\U0001f512 Pro feature \u2014 unlock at [YOUR_POLAR_LINK]"
+POLAR_ORG_ID = "1f3ada33-0e12-48b8-8efe-79e00d29e5e0"
+PRO_UNLOCK_MESSAGE = "\U0001f512 Pro feature \u2014 unlock at https://buy.polar.sh/polar_cl_rA97pLblKd1pRhwXezgssGgCp1NaKlDV0CeG74fP4q4"
 
 
 @lru_cache(maxsize=1)
